@@ -1,6 +1,6 @@
 from turtle import *
 
-speed(-1)
+
 color("red")
 
 for i in range(4):
