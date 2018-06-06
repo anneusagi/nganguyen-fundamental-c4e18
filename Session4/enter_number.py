@@ -8,3 +8,4 @@ for item in words:
     numbers.append(int(item))
 
 print(numbers)
+
